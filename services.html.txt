@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>V4Infra | Services</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <img src="images/logo.png" alt="V4Infra Logo" class="logo">
+    <h1>Our Services</h1>
+  </header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <section>
+    <ul>
+      <li><strong>Screeding Services</strong> – Professional floor screeding for commercial and residential projects.</li>
+      <li><strong>Granite Installation</strong> – Sourcing and installing premium granite with expert craftsmanship.</li>
+      <li><strong>Granite Polishing</strong> – Restore and enhance granite surfaces with our polishing services.</li>
+      <li><strong>Fire Safety Equipment</strong> – Certified procurement and installation of fire safety systems.</li>
+      <li><strong>NOC Assistance</strong> – Support for obtaining Fire Safety NOCs and compliance documentation.</li>
+    </ul>
+  </section>
+  <footer>
+    <p>&copy; 2025 V4Infra. All rights reserved.</p>
+  </footer>
+</body>
+</html>
